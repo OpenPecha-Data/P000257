@@ -1,0 +1,34 @@
+ebook_metadata:
+  title: ༄༅། །དབུ་མ་ཡང་དག་པར་བརྗོད་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  sku: KS-PK-06
+  layers:
+  - book_title
+  - author
+web_metadata:
+  title:
+    en: A Perfect Presentation of the Middle Way
+    bo: དབུ་མ་ཡང་དག་པར་བརྗོད་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །
+  collection:
+    en: Pema Karpo Series–  Book 6
+    bo: ཀུན་མཁྱེན་གཞུང་འགྲེལ།–  དེབ། ༦
+  author:
+    en: Kunkhyen Pema Karpo
+    bo: ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  pusblisher:
+    en: Gautam Buddha Vihara
+    bo: དོན་བརྒྱུད་དཔལ་ལྡན་འབྲུག་པ།
+  sku: KS-PK-06
+  category:
+    en: Madhyamika
+    bo: དབུ་མ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-PK-06.epub
+  description:
+    en: ''
+    bo: ''
