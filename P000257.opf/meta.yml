@@ -1,11 +1,13 @@
-ebook_metadata:
+id: P000257
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དབུ་མ་ཡང་དག་པར་བརྗོད་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: KS-PK-06
   layers:
   - book_title
   - author
+  id: KS-PK-06
 web_metadata:
   title:
     en: A Perfect Presentation of the Middle Way
